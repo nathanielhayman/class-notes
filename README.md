@@ -4,5 +4,5 @@ The uploaded notes in this repository represent concise summaries of topics lear
 
 | File | Completeness | Notes |
 | --- | --- | --- |
-| CSE 247 | 🟢 Complete | Contains all topics from Exam 1-3 |
-| Math 191 | 🔴 Incomplete | Contains some topics for Exam 3  |
+| [CSE 247](CSE_247.md) | 🟢 Complete | Contains all topics from Exam 1-3 |
+| [Math 191](Math_191.md) | 🔴 Incomplete | Contains some topics for Exam 3  |
