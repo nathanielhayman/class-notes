@@ -9,5 +9,5 @@ The uploaded notes in this repository represent concise summaries of topics lear
 | CSE 132 | ✍ In Progress | |
 | CSE 365S | ✍ In Progress | |
 | CSE 332S | ✍ In Progress | |
-| Math 3200 | ✍ In Progress | See (nathanielhayman/3200)[https://www.github.com/nathanielhayman/3200] |
+| Math 3200 | ✍ In Progress | See [nathanielhayman/3200](https://www.github.com/nathanielhayman/3200) |
 | Physics 217 | ✍ In Progress | |
