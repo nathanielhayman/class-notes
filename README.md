@@ -10,4 +10,4 @@ The uploaded notes in this repository represent concise summaries of topics lear
 | CSE 365S | ✍ In Progress | |
 | CSE 332S | ✍ In Progress | See [@332S](https://github.com/nathanielhayman/332S) |
 | Math 3200 | ✍ In Progress | See [@3200](https://www.github.com/nathanielhayman/3200) |
-| Physics 217 | ✍ In Progress | |
+| [Physics 217](Physics_217.md) | ✍ In Progress | (!) Note that GitHub does not properly render most $\LaTeX$ equations |
